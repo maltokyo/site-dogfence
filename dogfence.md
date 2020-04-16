@@ -1,7 +1,7 @@
 ---
 layout: photo_set
-title: DogFence
-permalink: /dogfence/
+title: "DogFence"
+permalink: /
 description: "Dogfence photo gallery."
 
 photos:
